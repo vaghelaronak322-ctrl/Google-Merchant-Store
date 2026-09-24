@@ -1,0 +1,6 @@
+{
+  "name": "Google Merch+ - Modern Merchandise Store",
+  "description": "A modern, sustainable and easy-to-shop Google merchandise store prototype with GA4 ecommerce tracking and data-driven UX improvements.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
